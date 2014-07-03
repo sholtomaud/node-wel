@@ -5,7 +5,8 @@
   "dependencies": {
     "csv": "^0.2.x",
     "csv-parse": "^0.0.4",
-    "stream-transform":"^0.0.4"
+    "stream-transform":"^0.0.4",
+    "csvtojson" : "^0.3.0"
   },
   "devDependencies": {
     "gulp": "~3.6.2"
