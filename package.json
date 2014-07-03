@@ -1,0 +1,25 @@
+{
+  "name": "node-wel",
+  "version": "0.0.1",
+  "description": "produce wel files with nodejs",
+  "dependencies": {
+    "csv": "^0.2.x",
+    "csv-parse": "^0.0.4",
+    "stream-transform":"^0.0.4"
+  },
+  "devDependencies": {
+    "gulp": "~3.6.2"
+  },
+  "engines": {
+    "node": "X.X.X",
+    "npm": ">=1.2.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Sholto Maud",
+  "license": "BSD"
+}
