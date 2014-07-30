@@ -4,3 +4,5 @@
 /*.xlsx
 /*.out
 /node_modules
+/outpuData.json
+node_modules/
